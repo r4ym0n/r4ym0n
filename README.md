@@ -10,8 +10,6 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
-
 #### `SPEC-001` // PROFILE OVERVIEW
 
 ```
@@ -24,8 +22,6 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
 ### `SPEC-002` // CORE INTERESTS
 
 | CODE | DOMAIN | DESCRIPTION |
@@ -35,7 +31,6 @@
 | `OPT-03` | Performance | Service optimization & system reliability |
 | `WEB-04` | Web3 | Cryptocurrency holder & blockchain enthusiast |
 
----
 
 ### `SPEC-003` // TECH STACK
 
@@ -46,7 +41,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
----
 
 ### `SPEC-004` // SYSTEM METRICS
 
@@ -60,7 +54,6 @@
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
----
 
 ```
 ─────────────────────────────────────────────────────────────────────────────
