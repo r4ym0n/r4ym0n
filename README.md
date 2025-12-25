@@ -58,9 +58,9 @@
   │                                                                          │
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r4ym0n&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=r4ym0n&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=r4ym0n)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=r4ym0n&layout=compact)
 
 ```
   │                                                                          │
